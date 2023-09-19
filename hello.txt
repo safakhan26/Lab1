@@ -1,0 +1,3 @@
+I have added this new file
+commit for mixed
+new commit for 3merging

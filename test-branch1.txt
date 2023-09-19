@@ -1,3 +1,7 @@
 this is the branch1
+<<<<<<< HEAD
 Hello from resolvingbranch
 Hello from main 
+=======
+Hello from resolvingbranch
+>>>>>>> resolvingbranch
