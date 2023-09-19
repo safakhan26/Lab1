@@ -5,3 +5,4 @@ Hello from main
 =======
 Hello from resolvingbranch
 >>>>>>> resolvingbranch
+rebasing file
