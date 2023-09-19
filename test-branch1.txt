@@ -1,0 +1,3 @@
+this is the branch1
+Hello from resolvingbranch
+Hello from main 
